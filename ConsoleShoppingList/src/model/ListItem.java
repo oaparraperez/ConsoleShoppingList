@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 //ConsoleShoppingList project by Oscar Antonio Parra Perez
-//ListItem class
+//ListItem class Demo
 
 @Entity
 @Table(name="itmems")
